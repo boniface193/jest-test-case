@@ -30,11 +30,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Todo-list] <a name="about-project"></a>
+# 📖 [Testing-practice] <a name="about-project"></a>
 
-> To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
+> In this exercise, I wrote a few practical tests for JavaScript functions using the Jest library. i made sure i followed the AAA pattern to make my tests easier for other developers to read and understand. i also tried to use the TDD approach in practice.
 
-**[Todo-list]**
+**[Testing-practice]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,11 +55,10 @@ html
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 
-- Adding a new item.
-- Removing a selected item.
-- Marking a selected item as complete.
-- Removing all items marked as complete at once.
-- Reordering a selected item (as drag-and-drop) [as an additional feature].
+- Wrote a function stringLength(string) that takes any string as an argument and returns its characters count.
+- Wrote a function reverseString(string) function. It toke a string as an argument and return it reversed.
+- Wrote a simple calculator class or object, which has 4 methods: add, subtract, divide, and multiply.
+- Started by writing a test for a capitalize(string) function. i made sure that this function takes a string as an argument and returns that string with the first character capitalized.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -70,9 +69,9 @@ html
 
 To get a local copy up and running, follow these steps.
 
-git clone https://github.com/boniface193/webpack-todo-list.git
+git clone https://github.com/boniface193/jest-test-case.git
 
-cd webpack-todo-list
+cd jest-test-case
 
 npm install
 
